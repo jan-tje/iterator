@@ -1,7 +1,9 @@
-# iterator
+# iterator by jantjevg
 A specific javascript iterator
 
-This is an example of a JavaScript iterator, that was created to satisfy some specific requirements:
+This is an example of a JavaScript iterator, that was created to satisfy some specific requirements.
+
+To test it out, download everything and open the itquest.html page.
 
 ##
  Requirements:
